@@ -1,0 +1,365 @@
+<!--[172.16.10.75]   [2018-12-26 13:06:42] [v2]-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="mobile-agent"
+          content="format=html5;url=http://h5.17k.com/chapter/2933095/36699279.html" />
+    <script type="text/javascript" src="http://img.17k.com/2015/Q/Q.js"></script>
+    <link href="http://img.17k.com/2015/skin/main.css" rel="stylesheet" type="text/css" />
+    <title>我，天阙宗掌门-第一章 矿奴-仙侠武侠小说-17k小说网</title>
+    <meta name="Keywords"
+          content="我，天阙宗掌门,养猪状元,全部章节,在线阅读,仙侠武侠小说,17K小说网" />
+    <meta name="Description"
+          content="17K小说网每天更新我，天阙宗掌门最新章节以及自动生成我，天阙宗掌门txt全集下载地址，目前已经更新到《我，天阙宗掌门》。页面清爽无广告，访问速度快。" />
+    <link href="http://img.17k.com/2015/skin/read.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="http://img.17k.com/2015/js/subject/book.js"></script>
+    <script type="text/javascript" src="http://img.17k.com/2015/js/subject/chapter.js"></script>
+    <script type="text/javascript" src="http://img.17k.com/2015/js/subject/chapter_free.js"></script>
+</head>
+<body>
+
+<div class="Header1">
+	<div class="cont_box">
+		<dl class="nav" id="Q_loginBar1">
+			<dd class="login">
+				<span class="icon"></span>
+				<a href="javascript:Q.login(function(){Q.setIndexLoginInfo('Q_loginBar1')});void(0)"> 登录</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://passport.17k.com/register">注册</a>
+			</dd>
+			<dd class="histroy">
+				<div class="tit">
+					<span class="icon"></span>
+					<a href="javascript:Q.login(function(){Q.setIndexLoginInfo('Q_loginBar1')});void(0)">看过</a>
+				</div>
+				<div class="cont">
+					<div class="logout">
+						<p>Duang, 您还未登录</p>
+					</div>
+				</div>
+			</dd>
+			<dd class="booklib">
+				<div class="tit">
+					<span class="icon"></span>
+					<a href="javascript:Q.login(function(){Q.setIndexLoginInfo('Q_loginBar1')});void(0)">书架</a>
+				</div>
+				<div class="cont">
+					<div class="logout">
+						<p>Duang, 您还未登录</p>
+					</div>
+				</div>
+			</dd>
+			<dd class="message">
+				<div class="tit">
+					<span class="icon"></span>
+					<a href="javascript:Q.login(function(){Q.setIndexLoginInfo('Q_loginBar1')});void(0)">消息</a>
+				</div>
+				<div class="cont">
+					<div class="logout">
+						<p>Duang, 您还未登录</p>
+					</div>
+				</div>
+			</dd>
+			<dd class="write">
+				<span class="icon"></span>
+				<a target="_blank" href="http://author.17k.com/author/getAuthorInfo.action">写书</a>
+			</dd>
+			<dd class="recharge">
+				<span class="icon"></span>
+				<a target="_blank" href="http://pay.17k.com/show/baopay">充值</a>
+			</dd>
+<!--			<script type="text/javascript">
+				Q.setIndexLoginInfo('Q_loginBar1');
+			</script>-->
+		</dl>
+
+		<a class="logo" href="/"></a>
+
+		<form class="so" target="_blank" action="http://search.17k.com/search.xhtml">
+			<input type="hidden" name="c.st" value="0" />
+			<input value="近战狂兵" class="q" type="text" name="c.q" onfocus="this.value==this.defaultValue&&this.select()" />
+			<input class="m" type="submit" value="搜索" />
+		</form>
+	</div>
+</div>
+
+
+<div class="Nav">
+	<div>
+		<a target="_blank" href="http://www.17k.com/"><span>首页</span></a>
+		<a target="_blank" href="http://top.17k.com/"><span>排行榜</span></a>
+		<a target="_blank" href="http://all.17k.com/lib/book.html"><span>分类</span></a>
+		<a target="_blank" href="http://www.17k.com/main-beAuthor.action"><span>我要写书</span></a>
+		<a target="_blank" href="http://www.17k.com/man/"><span>男生</span></a>
+		<a target="_blank" href="http://mm.17k.com/"><span>女生</span></a>
+		<a target="_blank" href="http://www.17k.com/gexing/"><span>个性</span></a>
+	        <a target="_blank" href="http://www.17k.com/syt/"><span>四月天</span></a>
+		<!-- <a target="_blank" href="http://zhuanti.17k.com/wwls/pc/index.html"><span>网文联赛</span></a> -->
+		<a target="_blank" href="http://www.17k.com/adaptation/index.html"><span>IP改编</span></a>
+		<a target="_blank" href="http://www.17k.com/mianfei/"><span>免费</span></a>
+		<a target="_blank" href="http://www.17k.com/quanben/"><span>完本</span></a>
+		<a target="_blank" href="http://bbs.17k.com"><span>论坛</span></a>
+		<a class="mobile" href="http://www.17k.com/download/"><span>手机端</span>
+			<img class="hover" src="http://img.17k.com/channel/ebook/erweima2.jpg" srcset="http://img.17k.com/channel/ebook/erweima2@2x.jpg 2x" alt="微信二维码" />
+		</a>
+		<img src="http://img.17k.com/2015/skin/crown.gif" class="icon_crown" />
+                <a target="_blank" href="http://wan.17k.com/jump/nyfpl71"><span>游戏中心</span></a>
+		<script type="text/javascript">
+			Q.floatNav(Q.lastTag('div'));
+		</script>
+	</div>
+</div>
+
+
+<div class="Banner_ad" id="BAIDU_1105071"></div>
+<div class="area">
+    <div class="infoPath">
+        <a href="/" target="_blank">17k小说网</a> &gt;&gt;
+        <a href="/man" target="_blank">男频</a>&gt;&gt;
+        <a href="http://all.17k.com/lib/book/2_24_0______1.html" target="_blank">仙侠武侠</a> &gt;&gt;
+        <a href="/book/2933095.html">我，天阙宗掌门</a>
+        <span class="c9">[书号2933095]</span>
+    </div>
+    <div class="read">
+        <div class="read_tit">
+            <div class="btn">
+                <ul>
+                    <li id="mobileBtn"><img height="23" src="http://img.17k.com/2015/skin/book/mobile.png"
+                                            srcset="http://img.17k.com/2015/skin/book/mobile@2x.png" alt="http://h5.17k.com" />
+                    </li>
+                    <li class="fullBtn"><a href="javascript:Read.full();" id="FullBtn">全屏阅读</a></li>
+                    <li><a href="javascript:ShowTopic()">发表评论</a></li>
+                    <li><a href="/list/2933095.html">返回目录</a></li>
+                    <li><a href="javascript:Q.bookshelf()">添加书签</a></li>
+                    <li><a href="javascript:BookChapter.prev()">上一章</a></li>
+                    <li><a href="javascript:BookChapter.next()">下一章</a></li>
+                </ul>
+            </div>
+            <div class="setting">
+                <div class="fontColor">
+                    <strong>选择背景颜色：</strong>
+                    <!--颜色要用16进制-->
+                    <span lang="#e8ebec">1</span>
+                    <span lang="#e7f4fe">2</span>
+                    <span lang="#e7eeda">3</span>
+                    <span lang="#eae6da">4</span>
+                    <span lang="#efe8ea">5</span>
+                    <span lang="#f0ebe3">6</span>
+                    <span lang="#e5e9e8">7</span>
+                    <span lang="#f9f9f9">8</span>
+                </div>
+                <div class="fontSize">
+                    <strong>选择字号：</strong>
+                    <span lang="24px">特大</span>
+                    <span lang="18px">大</span>
+                    <span lang="16px">中</span>
+                    <span lang="14px">小</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="readArea" id="readArea">
+            <div class="readAreaBox content">
+                <h1>
+                                            第一章 矿奴                                    </h1>
+                <div class="chapter_update_time"
+                     title="更新日期">2018-12-24 10:01:06</div>
+                <div class="p">
+                                            &#12288;&#12288;苍莽山坐落于赵国永昌郡内，这座山既不秀丽也不雄伟，不过却闻名于永昌各地。究其缘由，便是几十年前此山开采出了沉铁矿石这种修真者炼器时大量使用的矿石原料。近百年里，这座苍莽山的主人是永昌郡第一大宗门——四灵宗。<br /><br />&#12288;&#12288;此山山脉绵延几十里，大小山峰有几十座之多，以四灵宗之力，在这里开采近五十年也未将沉铁矿石采尽，反而勘探出更多种类的原料，不得不说这是一处宝地，若不是矿山灵气稀缺，四灵宗恐怕早就将宗门搬到此地了。<br /><br />&#12288;&#12288;对于如此重要的地方，四灵宗派了不少修为实力高深的弟子严密监察，虽说几年来赵国境内的修道宗门相安无事，但匹夫无罪怀璧其罪的道理从古到今都适用。<br /><br />&#12288;&#12288;修真者的时间比凡人的生命都要值钱，开采矿石的工作自然落在成千上万的凡人矿奴头上。<br /><br />&#12288;&#12288;矿山的十四号矿区被超过两层楼高的墙包围着。围墙边的空地上，几十号衣衫褴褛的矿奴坐在那里，等着墙外的执事们扔黑馒头进来。<br /><br />&#12288;&#12288;这一群矿奴中，有一个叫唐冕的年轻人。他中等身材，一身破破烂烂的衣服，头发油腻乱如杂草，脸上乌黑看不清真实面容，一双明亮的眼睛注视着高墙。<br /><br />&#12288;&#12288;“来了来了！”<br /><br />&#12288;&#12288;旁边有人听到墙外的脚步声，矿奴们喧嚣起来，争先恐后的往前凑，深怕落后于人。<br /><br />&#12288;&#12288;唐冕舔了舔嘴唇，双手在自己油光锃亮的破烂牛仔裤上擦了擦，微微弓腰，一副饿虎扑食的样子。<br /><br />&#12288;&#12288;没等多久，墙外的执事们开始了今天的投喂工作，黑馒头从墙外一个个扔进来，引起矿奴们的疯抢。<br /><br />&#12288;&#12288;唐冕用积攒了好久的力气高高跃起，两只手各抓了两个黑馒头，还不等落地就将其中一个塞进自己嘴里，疯狂的咀嚼起来。落地之后两三呼吸的时间，唐冕便咽下一个黑馒头，然后拔腿便向后跑去，顺势将另一个馒头也往自己的嘴里塞。<br /><br />&#12288;&#12288;旁边有几个虎视眈眈的矿奴看到唐冕的动作，都是一副满脸失望的样子，心里叹息今天是来不及抢这家伙的食物了。<br /><br />&#12288;&#12288;其他拿到馒头的人也大抵是和唐冕一样的动作，不过很多人没有唐冕这样矫健的身手，跑得也没有唐冕快，少不得要被人毒打一顿，然后乖乖的献出自己的食物。<br /><br />&#12288;&#12288;等到矿奴们抢到一起，塔楼上的监工王执事的鞭子也就到了，不分青红皂白的劈头盖脸抽打下来，惨叫声此起彼伏。<br /><br />&#12288;&#12288;“快点吃！吃完进矿洞！”<br /><br />&#12288;&#12288;监工王执事一脸不悦地呵斥道。矿奴打架会消耗太多力气，开采矿石的效率要是受到影响，他担待不起。<br /><br />&#12288;&#12288;唐冕站在远处，冷眼看着这幅每天都要上演的保守节目，暗自庆幸自己今天撤得快。捏了捏衣袖里还剩下的半块馒头，转身走进矿奴们居住的山洞里。<br /><br />&#12288;&#12288;山洞里是两层的大通铺，通铺上是发霉后看不出原本样子的被褥，不远处是的屎尿堆积地，一天到晚都臭气熏天，寻常人来此绝对要肺部发炎感染。<br /><br />&#12288;&#12288;唐冕皱着眉头回到自己位置，看了看四下无人，随即动作麻利地将袖子里的馒头塞进枕头里，然后取了一旁的铁镐、铁锥以及竹篓，便前往矿洞。<br /><br />&#12288;&#12288;刚刚走出大通铺，迎面走过来几个面带得意之色的矿奴，每个人手里都拿着两三个馒头，显然是从别人手里抢来的。<br /><br />&#12288;&#12288;“七号，你小子今天跑得够快的，前两天没把你揍舒服是不是？”<br /><br />&#12288;&#12288;说话的人是个身材高大的中年矿奴，长期挖矿锻炼出夸张的肌肉，裸露在破烂的衣裳下，牙齿和脸一边黑，满脸横肉，一副凶神恶煞的样子。<br /><br />&#12288;&#12288;唐冕冷眼看过去，嘲讽道：<br /><br />&#12288;&#12288;“四号，前天被老子打掉的牙齿找到了吗？”<br /><br />&#12288;&#12288;一听唐冕说这话，四号就感觉自己腮帮子还隐隐作痛，气不打一处来，撸起袖子就要上前再收拾唐冕一顿，旁边几个跟着的小弟，也慢慢散开，隐隐将唐冕包围起来。<br /><br />&#12288;&#12288;唐冕见此，很干脆地从背后抽出铁镐，一副准备随时拼命的架势。<br /><br />&#12288;&#12288;“哼，回头再收拾你！”<br /><br />&#12288;&#12288;见唐冕还是一贯的不服软，四号比较骨头和铁镐的硬度后，便骂骂咧咧的带着小弟们走了。<br /><br />&#12288;&#12288;唐冕收了铁镐，头也不回得朝矿洞走去，这个月的任务他差一点就要完成了，到时候除了可以免去一顿鞭打外，执事们还会奖励一顿猪肉。矿区给奴隶奖励的肉很难吃，但却可以增长力气、保持精力，这是唐冕最不想失去的东西。<br /><br />&#12288;&#12288;意外来到这个世界一年多，流民身份的他被抓进这里，不知道吃了多少苦头，挨了多少打。弱肉强食的规则在矿区被用到极致，身体羸弱、拳头不够硬的人会沦为奴隶的奴隶，最后不是饿死就是累死。<br /><br />&#12288;&#12288;面对四号这样的奴霸欺压，唐冕从来都是反抗到底，谁带头他就冲着谁去，拼命也要对方付出代价。前天四号向他发难，几个人把他摁在地上揍，却硬是被唐冕抓住空子，上来就是一拳抡在四号腮帮子上，导致四号永远的损失了一颗牙齿。<br /><br />&#12288;&#12288;漆黑的矿洞下，唐冕认真寻找沉铁矿石，每一寸岩壁都不放过，除了免去鞭打和那顿猪肉，他还有别的目标。<br /><br />&#12288;&#12288;从午间掘矿到晚上，唐冕从自己挖出的矿洞中出来，竹娄已经装满了一块块乌黑的沉铁矿石，他不敢先回住处，而是先找到塔楼上的监工王执事交付。<br /><br />&#12288;&#12288;王执事是个四十多岁的精明人，身边跟着几个副执事，整个十四矿区他一手遮天，几十号奴隶的性命都在他一人之手。<br /><br />&#12288;&#12288;“七号，你又是最先完成任务的，不错不错！”<br /><br />&#12288;&#12288;当着其他几个副执事的面，将沉铁矿石清点完毕，王执事摸着自己山羊胡，夸奖了唐冕两句，而后意味深长的看着唐冕。待唐冕有所回应后，王执事眼中迸发出狂喜之色，随后便消失无踪。<br /><br />
+                        &#12288;&#12288;本书首发来自17K小说网，第一时间看正版内容！<br /><br />
+                        <div class="author-say"></div>
+                        <!--二维码广告 Start-->
+                        <div class="qrcode">
+                            <img src="http://img.17k.com/images/ad/qrcode.jpg" alt="wap_17K" width="96" height="118" />
+                            <ul>
+                                <li>下载17K客户端，《我，天阙宗掌门》最新章节无广告纯净阅读。</li>
+                                <li>17K客户端专享，签到即送VIP，免费读全站。</li>
+                            </ul>
+                        </div>
+                        <!--二维码广告 End-->
+                                        <div class="chapter_text_ad" id="BAIDU_933954"></div>
+                </div>
+            </div>
+
+            <div class="rightSide">
+                <!-- 联赛 -->
+                <div class="liansai" style="display:none;"></div>
+                <!--artwc-->
+                <dl class="rightList row2">
+                    <!-- 碎片：热门好书 -->
+                    <dt><a class="more" href="http://www.17k.com/?hmsr=ydybjtj0" target="_blank">更多</a> <h3 class="title">编辑推荐榜</h3></dt> 
+<dd><span class="red">1</span><a href="http://www.17k.com/book/2767803.html?hmsr=ydybjtj1" target="_blank">霸道兵王在都市</a></dd> 
+<dd><span class="red">2</span><a href="http://www.17k.com/book/2924909.html?hmsr=ydybjtj2" target="_blank">我的搭档白无常</a></dd> 
+<dd><span class="red">3</span><a href="http://www.17k.com/book/2858130.html?hmsr=ydybjtj3" target="_blank">致命游戏等您来战</a></dd> 
+<dd><span>4</span><a href="http://www.17k.com/book/2888083.html?hmsr=ydybjtj4" target="_blank">天命修罗</a></dd> 
+<dd><span>5</span><a href="http://www.17k.com/book/2921258.html?hmsr=ydybjtj5" target="_blank">偷爱</a></dd> 
+<dd><span>6</span><a href="http://www.17k.com/book/2918775.html?hmsr=ydybjtj6" target="_blank">恋上你的花容</a></dd> 
+<dd><span>7</span><a href="http://www.17k.com/book/2787178.html?hmsr=ydybjtj7" target="_blank">公主喜嫁</a></dd> 
+<dd><span>8</span><a href="http://www.17k.com/book/2797016.html?hmsr=ydybjtj8" target="_blank">头条婚约</a></dd> 
+<dd><span>9</span><a href="http://www.17k.com/book/2751171.html?hmsr=ydybjtj9" target="_blank">重生麻辣小军嫂</a></dd> 
+<dd><span>10</span><a href="http://www.17k.com/book/2928981.html?hmsr=ydybjtj10" target="_blank">重生嫡女巧当家</a></dd> 
+
+
+
+
+
+                </dl>
+
+                <div class="baiduBox" id="BAIDU_977999">
+                    <!-- 广告位：新阅读页右侧广告一 -->
+                </div>
+
+                <dl class="rightList TextLine">
+                    <dt>资讯快递</dt>
+                    <dd id="BAIDU_501717">
+                        		<ul>
+<li><a href="http://www.17k.com/book/2909541.html" target="_blank">【新书】大神青狐妖：真龙！</a></li> 		
+<li><a href="http://wan.17k.com/jump/kclhe20" target="_blank" class="red">【推荐】孙悟空为紫霞大闹天宫，竟是因为这个？</a></li> 
+<li><a href="http://www.17k.com/book/2922410.html" target="_blank">【大神】嫁给最有权势的男人!</a></li>
+<li><a href="http://www.17k.com/book/1588224.html" target="_blank">【推荐】职场不顺，要怎么逆袭？</a></li>
+<li><a href="http://www.17k.com/book/2863180.html" target="_blank">【新作】拯救者：我真的不是救世主</a></li> 
+<li><a href="http://www.17k.com/book/2831732.html" target="_blank">【推荐】虐渣男，斗白莲，姐要翻身做主人!</a></li> 
+</ul>
+	
+
+                    </dd>
+                </dl>
+
+                <div class="baiduBox" id="BAIDU_978000">
+                    <!-- 广告位：新阅读页右侧广告二 -->
+                </div>
+
+                <dl class="rightList" id="readRightTab1">
+                    <!-- 碎片：新书推荐 -->
+                    <dt class="TabTitle">     <span class="now">人气热销</span>    <span>言情热销</span>    </dt>  <dd class="TabCont">     <div class="bookList1">                                     
+  <p> <a class="img" href="http://www.17k.com/book/2890059.html?hmsr=ydybjtj21" target="_blank">  <img src="http://img.17k.com/images/bookcover/2018/14450/72/2890059-1538191339000.jpg" alt="" /></a>   <a class="title" href="http://www.17k.com/book/2890059.html?hmsr=ydybjtj21" target="_blank">我爸是首富</a> <a href="http://www.17k.com/book/2890059.html?hmsr=ydybjtj21" target="_blank">下载“超级大富翁”APP，动动手指，注册账号，走上人生巅峰！</a>  </p>
+  <p> <a class="img" href="http://www.17k.com/book/2767722.html?hmsr=ydybjtj22" target="_blank">  <img src="http://img.17k.com/images/bookcover/2018/13838/69/2767722-1529633196000.jpg" alt="" /></a>   <a class="title" href="http://www.17k.com/book/2767722.html?hmsr=ydybjtj22" target="_blank">女神的医品兵王</a> <a href="http://www.17k.com/book/2767722.html?hmsr=ydybjtj22" target="_blank">兄弟身死，怒归都市，却阴差阳错，坠入花丛，一手拥女神，一手夺天下。</a>  </p>
+  <p> <a class="img" href="http://www.17k.com/book/2890962.html?hmsr=ydybjtj23" target="_blank">  <img src="http://img.17k.com/images/bookcover/2018/14454/72/2890962-1540883100000.jpg" alt="" /></a>   <a class="title" href="http://www.17k.com/book/2890962.html?hmsr=ydybjtj23" target="_blank">神话禁区</a> <a href="http://www.17k.com/book/2890962.html?hmsr=ydybjtj23" target="_blank">徐福出海、八仙过海……掩藏在历史长河中的蓬莱岛真的只是传说吗？</a>  </p>
+                                                                                                        
+  <p style="text-align:center;" class="bg"> <a href="http://top.17k.com/top/top100/06_vipclick/06_vipclick_serialWithLong_top_100_pc.html">加载更多</a></p></div> <div class="bookList1" style="display: none;">          
+  <p> <a class="img" href="http://www.17k.com/book/2888754.html?hmsr=ydybjtj24" target="_blank">  <img src="http://img.17k.com/images/bookcover/2018/14443/72/2888754-1536130668000.jpg" alt="" /></a>   <a class="title" href="http://www.17k.com/book/2888754.html?hmsr=ydybjtj24" target="_blank">制服男神计划</a> <a href="http://mm.17k.com/book/2888754.html?hmsr=ydybjtj24" target="_blank">她是天才黑客，步步为营，为复仇闯入他的世界，从此千般纠葛万般爱恨。</a>  </p>
+  <p> <a class="img" href="http://www.17k.com/book/2893226.html?hmsr=ydybjtj25" target="_blank">  <img src="http://img.17k.com/images/bookcover/2018/14466/72/2893226-1542621576000.jpg" alt="" /></a>   <a class="title" href="http://www.17k.com/book/2893226.html?hmsr=ydybjtj25" target="_blank">毒宠小谋妃</a> <a href="http://www.17k.com/book/2893226.html?hmsr=ydybjtj25" target="_blank">前世她错信他人，重生二十年后，即便刀山火海，仍要手刃仇人！挡我者死。</a>  </p>
+  <p> <a class="img" href="http://www.17k.com/book/2886597.html?hmsr=ydybjtj26" target="_blank">  <img src="http://img.17k.com/images/bookcover/2018/14432/72/2886597-1537172919000.jpg" alt="" /></a>   <a class="title" href="http://www.17k.com/book/2886597.html?hmsr=ydybjtj26" target="_blank">狼性总裁晚上见</a> <a href="http://www.17k.com/book/2886597.html?hmsr=ydybjtj26" target="_blank">他救她于水火，以为是幸运给了人，丢了心，却又被拽入另外一场密谋陷阱。</a>  </p>
+
+<p style="text-align:center;" class="bg"> <a href="http://top.17k.com/top/top100/06_vipclick/06_vipclick_serialWithLong_top_100_pc.html">加载更多 </a> </p></div></dd>
+
+                </dl>
+
+                <div class="baiduBox" id="BAIDU_978001">
+                    <!-- 广告位：新阅读页右侧广告三 -->
+                </div>
+
+                <dl class="rightList" id="readRightTab2">
+                    <!-- 碎片：畅销榜 -->
+                    <dt class="TabTitle">   <span class="now">潜力大作</span>   <span>女生必读</span> </dt>  <dd class="TabCont">   <div id="readRightTop1" class="topRow1">        
+<p><span class="red">1</span><a href="http://www.17k.com/book/2809894.html?hmsr=ydybjtj" target="_blank">近战狂兵</a><em><a class="img" href="http://www.17k.com/book/2809894.html?hmsr=ydybjtj" target="_blank"><img src="http://img.17k.com/images/bookcover/2018/14049/70/2809894-1536720899000.jpg" alt="" /> </a>作者：梁七少<br />都市激战 1795477字<br />回归都市，风云际会，强敌来犯，力战众敌，一路染血试问谁可争锋？</em></p>
+<p><span class="red">2</span><a href="http://www.17k.com/book/2844578.html?hmsr=ydybjtj" target="_blank">武极狂神</a><em><a class="img" href="http://www.17k.com/book/2844578.html?hmsr=ydybjtj" target="_blank"><img src="http://img.17k.com/images/bookcover/2018/14222/71/2844578-1531726527000.jpg" alt="" /> </a>作者：梁家三少<br />东方玄幻 706842字<br />一代狂神，一刀在手，败尽天下英雄，却是被最爱的人暗算，仙武路绝。</em></p>
+<p><span class="red">3</span><a href="http://www.17k.com/book/2314508.html?hmsr=ydybjtj" target="_blank">尘天之下</a><em><a class="img" href="http://www.17k.com/book/2314508.html?hmsr=ydybjtj" target="_blank"><img src="http://img.17k.com/images/bookcover/2018/11572/57/2314508-1546082324000.jpg" alt="" /> </a>作者：0君尘0<br />古典仙侠 559097字<br />神魔乱舞诸帝攀峰，孤独痛苦伤心沉沦，残酷绝望炼狱死亡、终极之决！</em></p>
+<p><span>4</span><a href="http://www.17k.com/book/2931711.html?hmsr=ydybjtj" target="_blank">太阿大帝</a><em><a class="img" href="http://www.17k.com/book/2931711.html?hmsr=ydybjtj" target="_blank"><img src="http://img.17k.com/images/bookcover/2018/14658/73/2931711-1545988626000.jpg" alt="" /> </a>作者：楠神z<br />东方玄幻 69203字<br />我这一世，不求长生，不问永恒，只愿踏遍六道红尘，笑傲宇内苍生。</em></p>
+<p><span>5</span><a href="http://www.17k.com/book/2933160.html?hmsr=ydybjtj" target="_blank">人皮艺术</a><em><a class="img" href="http://www.17k.com/book/2933160.html?hmsr=ydybjtj" target="_blank"><img src="http://img.17k.com/images/bookcover/2018/14665/73/2933160-1545907468000.jpg" alt="" /> </a>作者：智商不过二毛五<br />恐怖悬疑 22660字<br />一针阴阳定生死，我是一家纹身店的老板，我有一门绝技叫做阴阳绣。</em></p>
+<p><span>6</span><a href="http://www.17k.com/book/2927065.html?hmsr=ydybjtj" target="_blank">大小姐的鬼才护卫</a><em><a class="img" href="http://www.17k.com/book/2927065.html?hmsr=ydybjtj" target="_blank"><img src="http://img.17k.com/images/bookcover/2018/14635/73/2927065-1545218509000.jpg" alt="" /> </a>作者：叔于田<br />都市生活 276850字<br />他的脑袋值一亿多美金。他选择了一个同样价值一亿多美金的任务。</em></p>
+<p><span>7</span><a href="http://www.17k.com/book/2911141.html?hmsr=ydybjtj" target="_blank">医道圣手在都市</a><em><a class="img" href="http://www.17k.com/book/2911141.html?hmsr=ydybjtj" target="_blank"><img src="http://img.17k.com/images/bookcover/2018/14555/72/2911141-1541599735000.jpg" alt="" /> </a>作者：暖心江南<br />都市生活 348893字<br />何为医者？天下万物皆有灵，我不当救人，我更要救的是天下万物！</em></p>
+<p><span>8</span><a href="http://www.17k.com/book/2929177.html?hmsr=ydybjtj" target="_blank">校花的绝品狂医</a><em><a class="img" href="http://www.17k.com/book/2929177.html?hmsr=ydybjtj" target="_blank"><img src="http://img.17k.com/images/bookcover//2018/14645/73/2929177-1544755631000.jpg" alt="" /> </a>作者：凌风傲世<br />都市异能 61344字<br />医术鬼神莫测，修为天地惧惊！刀锋所指，所向睥睨！这一世，何人为惧？</em></p>
+<p><span>9</span><a href="http://www.17k.com/book/2924681.html?hmsr=ydybjtj" target="_blank">佳人如玉</a><em><a class="img" href="http://www.17k.com/book/2924681.html?hmsr=ydybjtj" target="_blank"><img src="http://img.17k.com/images/bookcover/2018/14623/73/2924681-1543574866000.jpg" alt="" /> </a>作者：尼呈<br />热血青春 129089字<br />佳人如玉，红尘辗转，男孩为了心爱的女人，逐步变成顶天立地真男人！</em></p>
+<p><span>10</span><a href="http://www.17k.com/book/2909543.html?hmsr=ydybjtj" target="_blank">首席医圣</a><em><a class="img" href="http://www.17k.com/book/2909543.html?hmsr=ydybjtj" target="_blank"><img src="http://img.17k.com/images/bookcover//2018/14547/72/2909543-1543988703000.jpg" alt="" /> </a>作者：江湖喵<br />官场风云 171159字<br />医者医人，官者医国；左右逢源，大道通天！且看他一步步走上巅峰！</em></p></div> 
+ 
+<div id="readRightTop2" style="display: none" class="topRow1">  
+<p><span class="red">1</span><a href="http://mm.17k.com/book/2923799.html?hmsr=ydybjtj" target="_blank">佛系少女进化论</a><em><a class="img" href="http://mm.17k.com/book/2923799.html?hmsr=ydybjtj" target="_blank"><img src="http://img.17k.com/images/bookcover/2018/14618/73/2923799-1544148212000.jpg" alt="" /> </a>作者：萌宝吖<br />耽美言情 159858字<br />被迫还债，竟然还出一个未婚夫？高冷总裁别惹我，追我也没结果！</em></p>  
+<p><span class="red">2</span><a href="http://mm.17k.com/book/2929308.html?hmsr=ydybjtj" target="_blank">总裁爹地，妈咪又跑了</a><em><a class="img" href="http://mm.17k.com/book/2929308.html?hmsr=ydybjtj" target="_blank"><img src="http://img.17k.com/images/bookcover/2018/14646/73/2929308-1545291553000.jpg" alt="" /> </a>作者：依琳琳依<br />豪门世家 32280字<br />逃跑萌妻携子回归，上演爆笑萌娃戏剧。爹地，快救豆豆，有坏人要抓我！</em></p>  
+<p><span class="red">3</span><a href="http://mm.17k.com/book/2823487.html?hmsr=ydybjtj" target="_blank">不良鲜妻有点甜</a><em><a class="img" href="http://mm.17k.com/book/2823487.html?hmsr=ydybjtj" target="_blank"><img src="http://img.17k.com/images/bookcover/2018/14117/70/2823487-1528337050000.jpg" alt="" /> </a>作者：雪歌歌<br />总裁豪门 710474字<br />恶毒伪善白莲花，女主表示呵呵哒！极品无下限？且看我釜底抽薪！</em></p>  
+<p><span>4</span><a href="http://mm.17k.com/book/2835314.html?hmsr=ydybjtj" target="_blank">皇朝第一妃</a><em><a class="img" href="http://mm.17k.com/book/2835314.html?hmsr=ydybjtj" target="_blank"><img src="http://img.17k.com/images/bookcover/2019/14176/70/2835314-1546436048000.jpg" alt="" /> </a>作者：聂小猪<br />转世重生 561510字<br />如若能够卷土重来，我必定要主宰自己的命运，让负心之人不得好死！</em></p>  
+<p><span>5</span><a href="http://mm.17k.com/book/2874382.html?hmsr=ydybjtj" target="_blank">嫡女心计</a><em><a class="img" href="http://mm.17k.com/book/2874382.html?hmsr=ydybjtj" target="_blank"><img src="http://img.17k.com/images/bookcover/2018/14371/71/2874382-1534904724000.jpg" alt="" /> </a>作者：月下高歌<br />转世重生 550638字<br />幼子剜心入药，她烈火焚身而亡。重生归来，整治白莲花，狂虐渣男。</em></p>  
+<p><span>6</span><a href="http://mm.17k.com/book/2876228.html?hmsr=ydybjtj" target="_blank">良缘喜嫁</a><em><a class="img" href="http://mm.17k.com/book/2876228.html?hmsr=ydybjtj" target="_blank"><img src="http://img.17k.com/images/bookcover/2018/14381/71/2876228-1535532826000.jpg" alt="" /> </a>作者：百媚千娇<br />家宅布衣 469901字<br />夫君罩我去宅斗，打脸恶母手撕渣妹，逆天改命携手虐渣路，奇乐无穷！</em></p>  
+<p><span>7</span><a href="http://mm.17k.com/book/2874929.html?hmsr=ydybjtj" target="_blank">婚宠100天</a><em><a class="img" href="http://mm.17k.com/book/2874929.html?hmsr=ydybjtj" target="_blank"><img src="http://img.17k.com/images/bookcover/2018/14374/71/2874929-1534853759000.jpg" alt="" /> </a>作者：灿烂如初<br />豪门世家 303497字<br />一纸隐婚协议，她成了他的妻，说好彼此不侵犯，最终却逃不过日久生情。</em></p>  
+<p><span>8</span><a href="http://mm.17k.com/book/2884783.html?hmsr=ydybjtj" target="_blank">纪少的专属甜心</a><em><a class="img" href="http://mm.17k.com/book/2884783.html?hmsr=ydybjtj" target="_blank"><img src="http://img.17k.com/images/bookcover//2018/14423/72/2884783-1536204967000.jpg" alt="" /> </a>作者：小王子的玫瑰<br />豪门世家 249799字<br />重活一世，她绝不心慈手软，虐完渣男，认准真爱，守护自己的幸福！</em></p>  
+<p><span>9</span><a href="http://mm.17k.com/book/2891874.html?hmsr=ydybjtj" target="_blank">总裁爹地太给力</a><em><a class="img" href="http://mm.17k.com/book/2891874.html?hmsr=ydybjtj" target="_blank"><img src="http://img.17k.com/images/bookcover/2018/14459/72/2891874-1538187773000.jpg" alt="" /> </a>作者：安欣<br />豪门世家 215080字<br />何子桑被恶毒继母下药陷害，与陌生男人一夜缠绵，最终被逼远走国外。</em></p>  
+<p><span>10</span><a href="http://mm.17k.com/book/2917083.html?hmsr=ydybjtj" target="_blank">独家宠婚</a><em><a class="img" href="http://mm.17k.com/book/2917083.html?hmsr=ydybjtj" target="_blank"><img src="http://img.17k.com/images/bookcover/2018/14585/72/2917083-1546260823000.jpg" alt="" /> </a>作者：林因因<br />婚恋爱情 94445字<br />家族困境，幸嫁豪门，误惹猛虎总裁，威逼利诱霸爱喂不饱，认怂求放过！</em></p>  </div>  </dd>
+
+                </dl>
+                <div class="baiduBox" id="BAIDU_978002">
+                    <!-- 广告位：新阅读页右侧广告四 -->
+                </div>
+                <!--artwc right end-->
+            </div>
+        </div>
+
+        <div class="baiduCenter" id="BAIDU_977998">
+            <!-- 广告位：新阅读底部通栏广告2 -->
+        </div>
+
+        <div class="NextPrevBtn">
+            <ul>
+                <li><a href="javascript:ShowTopic()">发表评论</a></li>
+                <li class="last">
+                    <a href="javascript:BookChapter.prev();">上一章</a>
+                </li>
+                <li><a href="/list/2933095.html">返回目录</a></li>
+                <li class="next">
+                    <a href="javascript:BookChapter.next();">下一章</a>
+                </li>
+                <li><a href="javascript:Q.bookshelf();">添加书签</a></li>
+            </ul>
+        </div>
+    </div>
+    <!--推荐-->
+    <div class="tuijian">
+        <div id="Tuijian_btn">换一换</div>
+        <dl id="Tuijian"></dl>
+    </div>
+</div>
+<div class="baiduBox1" id="BAIDU_978214">
+    <!-- 广告位：新阅读页底部通栏3 -->
+</div>
+
+<div class="Footer">
+	<div class="footer_nav">
+		<a rel="nofollow" target="_blank" href="http://www.17k.com/aboutus/">关于17k.com</a>&#12288;|&#12288;
+		<a rel="nofollow" target="_blank" href="http://www.17k.com/aboutus/Cooperation.html">商务合作</a>&#12288;|&#12288;
+		<a target="_blank" href="http://www.17k.com/aboutus/link.html">友情链接</a>&#12288;|&#12288;
+		<a rel="nofollow" target="_blank" href="http://www.17k.com/Simple/contents/helpCenter/helpCenter.htm">帮助中心</a>&#12288;|&#12288;
+		<a rel="nofollow" target="_blank" href="http://www.17k.com/Simple/contents/login/Rdme.html">用户守则</a>&#12288;|&#12288;
+		<a target="_blank" href="http://www.17k.com/about/sitemap.html">网站地图</a>&#12288;|&#12288;
+		<a rel="nofollow" target="_blank" href="http://www.17k.com/recruitment/index.html">诚聘精英</a>&#12288;|&#12288;
+		<a rel="nofollow" target="_blank" href="http://code.17k.com/">17K开源</a>
+	</div>
+	<p>
+		Copyright (C) 2006-2015 www.17k.com All Rights Reserved 中文在线版权所有，
+		<a target="_blank" href="http://www.17k.com/dushi/">都市小说</a>、
+		<a target="_blank" href="http://www.17k.com/xuanhuan/">玄幻仙侠</a>、
+		<a target="_blank" href="http://mm.17k.com/">言情小说</a>等在线小说阅读网站，未经许可不得擅自转载本站内容。<br>
+		17k小说网所收录免费小说作品、社区话题、书友评论、用户上传文字、图片等其他一切内容均属用户个人行为，与17k小说网无关。--17K权利声明。<br>
+		
+		<a rel="nofollow" target="_blank" href="http://www.miibeian.gov.cn/">京ICP证010590号</a>　京ICP备09030667号-5　　　京网文[2014]0917-217号　　新出审字[2009]366号　<br>
+		<a rel="nofollow" target="_blank" href="http://cms.17k.com/news/182.html">新出网许（京）字045号</a>　北京市公安局备案号码：11010102000012<br>
+		违法和不良信息举报电话：010-51667567转8144 举报邮箱：tangyuanjubao@qq.com</p>
+
+
+
+	<p class="linkimg">
+		<a href="https://ss.knet.cn/verifyseal.dll?sn=e13062011010041317xgep000000&amp;ct=df&amp;a=1&amp;pa=0.9085826601367444" target="_blank" kx_type="图标式">
+			<img src="http://rr.knet.cn/static/images/logo/cnnic.png" alt="可信网站">
+		</a>
+		<a rel="nofollow" target="_blank" href="http://www.bj.cyberpolice.cn/index.do">
+			<img src="http://img.17k.com/channel/nvxing/-2.jpg" alt="网络110报警">
+		</a>
+		<a href="http://v.pinpaibao.com.cn/authenticate/cert/?site=www.17k.com&at=business" target="_blank">
+			<img src="http://static.anquan.org/static/outer/image/hy_124x47.png" alt="安全联盟认证" width="124" height="47">
+		</a>
+		<a rel="nofollow" target="_blank" href="http://net.china.com.cn/index.htm">
+			<img src="http://img.17k.com/channel/nvxing/-1.jpg" alt="不良网站举报">
+		</a>
+		<a rel="nofollow" target="_blank" href="http://www.bjwhzf.gov.cn/accuse.do">
+			<img src="http://img.17k.com/channel/nvxing/-3.jpg" alt="北京文化市场行政执法队">
+		</a>
+	</p>
+	<script type="text/javascript">
+		Q.floatBar();
+	</script>
+</div>
+<script type="text/javascript" src="http://img.17k.com/2015/js/count.js"></script>
+
+<!--广告-->
+<script type="text/javascript" src="http://cbjs.baidu.com/js/m.js"></script>
+<script type="text/javascript" src="http://img.17k.com/2015/js/ad/read_free.js"></script>
+</body>
+</html>

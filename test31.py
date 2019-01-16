@@ -5,13 +5,17 @@ import pymongo
 headers = {
     'User-Agent':'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36',
 }
-for j in range(5):
-    reponse = requests.get('http://v.7192.com/movie_0_0_0_0_{}'.format(j),headers=headers)
+mylist = []
+for j in range(50):
+    if j == 1:
+        reponse= requests.get('http://v.7192.com/movie_0_0_0_0_1',headers=headers)
+    else:
+        reponse = requests.get('http://v.7192.com/movie_0_0_0_0_{}'.format(j),headers=headers)
     reponse.encoding="gbk"
     tree = etree.HTML(reponse.text)
     res = tree.xpath('//div[@class="result_right_list"]/ul/li/div/a')
     #print(res)
-    mylist = []
+    #mylist = []
     for a in res:
         href1_ = a.xpath('./@href')[0]
         href_ = ('http://v.7192.com'+href1_)
@@ -30,12 +34,13 @@ for j in range(5):
             href2= b.xpath('./@rel')[0]
             print(href2)
             mylist.append({"src_":src_,"href_":href_,"title_":title_,"href2":href2})
-
+#lock.acquire()  # 锁住mongo
 myclient = pymongo.MongoClient("mongodb://localhost:27017/")
 mydb = myclient["wemovie"]
 mycol = mydb["movie"]
 mycol.insert_many(mylist)
 myclient.close() #!!!!!!!!!!!
+#lock.release() # 打开mongo
 
 
     

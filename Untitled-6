@@ -1,0 +1,7 @@
+from selenium import webdriver 
+import requests
+
+
+
+browser.get('http://www.taobao.com')
+print(response)

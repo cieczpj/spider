@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>海淀区信息公开大厅</title>
+		<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+                <meta name="viewport" content="width=1200">
+		<link rel="stylesheet" type="text/css" href="/resources/css/second.css" />
+	</head>
+	<body>
+		<!--topBox-->
+                <div class="topBoxNew_bg">
+              <div class="topBoxNew">
+			<div class="wrap">
+				<ul class="fourList">
+					<li><i class="icon_ghdc"></i><a href="http://hdqw.bjhd.gov.cn/" target="_blank">区委</a></li>
+					<li><i class="icon_gh"></i><a href="http://hdrd.bjhd.gov.cn/" target="_blank">区人大</a></li>
+					<li><i class="icon_gh"></i><a href="http://www.bjhd.gov.cn/" target="_blank">区政府</a></li>
+					<li><i class="icon_zx"></i><a href="http://hdzx.bjhd.gov.cn/" target="_blank">区政协</a></li>
+				</ul>
+				<form action="http://47.95.44.144/?siteCode=1101080016" class="searchBox" method="post" onsubmit="document.charset='utf-8'" target="_blank">
+                                        <input type="hidden" name="database" value="hd_qb" />
+                                        <input class="searchTxt" placeholder="请输入您要搜索的内容" type="text" name="qt" id="qt" />
+					<input type="submit" class="searchBtn" value="" />
+				</form>
+				<a href="http://www.beijing.gov.cn/" class="linkSdzc">首都之窗</a>
+				<a href="/" class="logo_bjhd">北京海淀</a>
+			</div>
+		</div>
+</div>
+		<!--topNav-->
+		<div class="topNavBox topNavBox_new">
+			<div class="wrap">
+				<ul>
+					<li class="nav01"><a href="http://www.bjhd.gov.cn/"><i></i>首页</a></li>
+					<li class="nav02"><a href="http://www.bjhd.gov.cn/zwdt/"><i></i>政务信息</a></li>
+					<li class="nav03"><a href="http://www.bjhd.gov.cn/zwfw/"><i></i>政务服务</a></li>
+					<li class="nav04"><a href="http://www.bjhd.gov.cn/zmhd/"><i></i>政民互动</a></li>
+					<li class="nav05"><a href="http://www.bjhd.gov.cn/kjhd/"><i></i>美丽海淀</a></li>
+				</ul>
+			</div>
+		</div>
+<script type="text/javascript" src="/resources/js/jquery-1.11.3.min.js"></script>
+<script>
+$(function(){
+     var checkelement=window.location.href;
+     var menu=[];
+     var menuLeft=[];
+     var length=$(".topNavBox li").length;
+     var fsy=true;
+	 //头部当前页选择
+　　 for (i=0;i<length;i++){
+       menu.push($(".topNavBox li").eq(i).children('a').attr("href"));
+       if(checkelement.indexOf(menu[i])>=0){
+               $(".topNavBox li a").removeClass('on');
+	       $(".topNavBox li").eq(i).children('a').addClass('on');
+	       fsy=false;
+       };
+　　};
+    if (fsy){
+	    $(".topNavBox li:first").addClass("on");
+    }
+
+});
+</script>
+		<!--secondContent-->
+		<div class="secondContent wrap">
+			<!--secondTitle-->
+			<div class="secondTitle">
+				<h2>政务信息</h2>
+				<div class="location">
+					当前位置：首页&nbsp;>&nbsp;政务信息&nbsp;>&nbsp;海淀要闻
+				</div>
+			</div>
+			<h3 class="secSubTitle">海淀要闻</h3>
+			<div class="senondListCon">
+				<ul class="slideList">
+                                        
+					<li>
+                                        <span class="date">2017-06-01</span>
+<script>
+var strLink = ''
+if(!strLink){document.write('<a href="./201810/t20181014_3804463.shtml" target="_blank"><i class="listArr"></i>我区科技创新国际化人才培训班举行答辩结业式</a>')}
+else{document.write('<a href="'+strLink+'" target="_blank"><i class="listArr"></i>我区科技创新国际化人才培训班举行答辩结业式</a>')}
+</script>
+                                        </li>
+                                        
+					<li>
+                                        <span class="date">2017-06-01</span>
+<script>
+var strLink = ''
+if(!strLink){document.write('<a href="./201810/t20181014_3804462.shtml" target="_blank"><i class="listArr"></i>区政协双周座谈聚焦科技成果转化</a>')}
+else{document.write('<a href="'+strLink+'" target="_blank"><i class="listArr"></i>区政协双周座谈聚焦科技成果转化</a>')}
+</script>
+                                        </li>
+                                        
+					<li>
+                                        <span class="date">2017-05-31</span>
+<script>
+var strLink = ''
+if(!strLink){document.write('<a href="./201810/t20181014_3804441.shtml" target="_blank"><i class="listArr"></i>海淀区气象台发布雷电蓝色预警信号 请注意防范</a>')}
+else{document.write('<a href="'+strLink+'" target="_blank"><i class="listArr"></i>海淀区气象台发布雷电蓝色预警信号 请注意防范</a>')}
+</script>
+                                        </li>
+                                        
+					<li>
+                                        <span class="date">2017-05-31</span>
+<script>
+var strLink = ''
+if(!strLink){document.write('<a href="./201810/t20181014_3804461.shtml" target="_blank"><i class="listArr"></i>“两个专项”治理工作取得阶段性成果</a>')}
+else{document.write('<a href="'+strLink+'" target="_blank"><i class="listArr"></i>“两个专项”治理工作取得阶段性成果</a>')}
+</script>
+                                        </li>
+                                        
+					<li>
+                                        <span class="date">2017-05-28</span>
+<script>
+var strLink = ''
+if(!strLink){document.write('<a href="./201810/t20181014_3804440.shtml" target="_blank"><i class="listArr"></i>四次荣获“全国优秀公安局”，厉害了海淀公安！</a>')}
+else{document.write('<a href="'+strLink+'" target="_blank"><i class="listArr"></i>四次荣获“全国优秀公安局”，厉害了海淀公安！</a>')}
+</script>
+                                        </li>
+                                        
+					<li>
+                                        <span class="date">2017-05-28</span>
+<script>
+var strLink = ''
+if(!strLink){document.write('<a href="./201810/t20181014_3804439.shtml" target="_blank"><i class="listArr"></i>海淀区气象台发布雷电黄色预警 请注意防范</a>')}
+else{document.write('<a href="'+strLink+'" target="_blank"><i class="listArr"></i>海淀区气象台发布雷电黄色预警 请注意防范</a>')}
+</script>
+                                        </li>
+                                        
+					<li>
+                                        <span class="date">2017-05-27</span>
+<script>
+var strLink = ''
+if(!strLink){document.write('<a href="./201810/t20181014_3804445.shtml" target="_blank"><i class="listArr"></i>海淀“一刻钟社区服务圈”已建成430个 覆盖536个社区</a>')}
+else{document.write('<a href="'+strLink+'" target="_blank"><i class="listArr"></i>海淀“一刻钟社区服务圈”已建成430个 覆盖536个社区</a>')}
+</script>
+                                        </li>
+                                        
+					<li>
+                                        <span class="date">2017-05-26</span>
+<script>
+var strLink = ''
+if(!strLink){document.write('<a href="./201810/t20181014_3804437.shtml" target="_blank"><i class="listArr"></i>海淀全力做好精神文明建设背街小巷环境整治提升工作</a>')}
+else{document.write('<a href="'+strLink+'" target="_blank"><i class="listArr"></i>海淀全力做好精神文明建设背街小巷环境整治提升工作</a>')}
+</script>
+                                        </li>
+                                        
+					<li>
+                                        <span class="date">2017-05-26</span>
+<script>
+var strLink = ''
+if(!strLink){document.write('<a href="./201810/t20181014_3804438.shtml" target="_blank"><i class="listArr"></i>市气象台发布高温蓝色预警信号 请注意防暑降温</a>')}
+else{document.write('<a href="'+strLink+'" target="_blank"><i class="listArr"></i>市气象台发布高温蓝色预警信号 请注意防暑降温</a>')}
+</script>
+                                        </li>
+                                        
+					<li>
+                                        <span class="date">2017-05-26</span>
+<script>
+var strLink = ''
+if(!strLink){document.write('<a href="./201810/t20181014_3804436.shtml" target="_blank"><i class="listArr"></i>2016中关村品牌推介系列活动举行 四大榜单出炉</a>')}
+else{document.write('<a href="'+strLink+'" target="_blank"><i class="listArr"></i>2016中关村品牌推介系列活动举行 四大榜单出炉</a>')}
+</script>
+                                        </li>
+                                        
+					<li>
+                                        <span class="date">2017-05-26</span>
+<script>
+var strLink = ''
+if(!strLink){document.write('<a href="./201810/t20181014_3804449.shtml" target="_blank"><i class="listArr"></i>我区与中国建设银行加强交流对接</a>')}
+else{document.write('<a href="'+strLink+'" target="_blank"><i class="listArr"></i>我区与中国建设银行加强交流对接</a>')}
+</script>
+                                        </li>
+                                        
+					<li>
+                                        <span class="date">2017-05-26</span>
+<script>
+var strLink = ''
+if(!strLink){document.write('<a href="./201810/t20181014_3804446.shtml" target="_blank"><i class="listArr"></i>海淀科技工作者展示近百个创意创新项目成果</a>')}
+else{document.write('<a href="'+strLink+'" target="_blank"><i class="listArr"></i>海淀科技工作者展示近百个创意创新项目成果</a>')}
+</script>
+                                        </li>
+                                        
+					<li>
+                                        <span class="date">2017-05-26</span>
+<script>
+var strLink = ''
+if(!strLink){document.write('<a href="./201810/t20181014_3804444.shtml" target="_blank"><i class="listArr"></i>我区扎实推进“多证合一”改革工作</a>')}
+else{document.write('<a href="'+strLink+'" target="_blank"><i class="listArr"></i>我区扎实推进“多证合一”改革工作</a>')}
+</script>
+                                        </li>
+                                        
+					<li>
+                                        <span class="date">2017-05-25</span>
+<script>
+var strLink = ''
+if(!strLink){document.write('<a href="./201810/t20181014_3804435.shtml" target="_blank"><i class="listArr"></i>区委常委会研究精神文明建设背街小巷整治有关工作</a>')}
+else{document.write('<a href="'+strLink+'" target="_blank"><i class="listArr"></i>区委常委会研究精神文明建设背街小巷整治有关工作</a>')}
+</script>
+                                        </li>
+                                        
+					<li>
+                                        <span class="date">2017-05-25</span>
+<script>
+var strLink = ''
+if(!strLink){document.write('<a href="./201810/t20181014_3804434.shtml" target="_blank"><i class="listArr"></i>《我们在路上——海淀城管的诗与梦》新书首发</a>')}
+else{document.write('<a href="'+strLink+'" target="_blank"><i class="listArr"></i>《我们在路上——海淀城管的诗与梦》新书首发</a>')}
+</script>
+                                        </li>
+                                        
+					<li>
+                                        <span class="date">2017-05-25</span>
+<script>
+var strLink = ''
+if(!strLink){document.write('<a href="./201810/t20181014_3804448.shtml" target="_blank"><i class="listArr"></i>市领导调研我区“阳光餐饮”工程</a>')}
+else{document.write('<a href="'+strLink+'" target="_blank"><i class="listArr"></i>市领导调研我区“阳光餐饮”工程</a>')}
+</script>
+                                        </li>
+                                        
+					<li>
+                                        <span class="date">2017-05-25</span>
+<script>
+var strLink = ''
+if(!strLink){document.write('<a href="./201810/t20181014_3804447.shtml" target="_blank"><i class="listArr"></i>昆明考察团来中关村创业大街调研</a>')}
+else{document.write('<a href="'+strLink+'" target="_blank"><i class="listArr"></i>昆明考察团来中关村创业大街调研</a>')}
+</script>
+                                        </li>
+                                        
+					<li>
+                                        <span class="date">2017-05-25</span>
+<script>
+var strLink = ''
+if(!strLink){document.write('<a href="./201810/t20181014_3804432.shtml" target="_blank"><i class="listArr"></i>首批集体建设用地租赁房入住 租期长达10年</a>')}
+else{document.write('<a href="'+strLink+'" target="_blank"><i class="listArr"></i>首批集体建设用地租赁房入住 租期长达10年</a>')}
+</script>
+                                        </li>
+                                        
+					<li>
+                                        <span class="date">2017-05-25</span>
+<script>
+var strLink = ''
+if(!strLink){document.write('<a href="./201810/t20181014_3804433.shtml" target="_blank"><i class="listArr"></i>“纯电动自吸式清洁车”驶上中关村大街</a>')}
+else{document.write('<a href="'+strLink+'" target="_blank"><i class="listArr"></i>“纯电动自吸式清洁车”驶上中关村大街</a>')}
+</script>
+                                        </li>
+                                        
+					<li>
+                                        <span class="date">2017-05-24</span>
+<script>
+var strLink = ''
+if(!strLink){document.write('<a href="./201810/t20181014_3804431.shtml" target="_blank"><i class="listArr"></i>区领导到北部办调研 研究推进今年重点工作</a>')}
+else{document.write('<a href="'+strLink+'" target="_blank"><i class="listArr"></i>区领导到北部办调研 研究推进今年重点工作</a>')}
+</script>
+                                        </li>
+                                        
+				</ul>
+				<div class="page">
+<script language="JavaScript" type="text/JavaScript">
+					//createPageHTML(50, 49, "index", "shtml");
+					var currentPage = 49;//所在页从0开始
+					//var headPage = "index"+"."+"shtml";//首页
+					//var tailPage = "index_" + (countPage-1) + ".shtml"//尾页
+					var prevPage = currentPage-1//上一页
+					var nextPage = currentPage+1//下一页
+					var countPage = 50//共多少页
+					
+
+					document.write("<span class='total'>共"+countPage+"页</span>");
+					//设置上一页代码
+					if(countPage>1&&currentPage!=0&&currentPage!=1)
+						document.write("<a href=\"index.shtml\">首页</a><a href=\"index"+"_" + prevPage + "."+"shtml\">上一页</a>");
+					else if(countPage>1&&currentPage!=0&&currentPage==1)
+					
+						document.write("<a href=\"index.shtml\">首页</a><a href=\"index.shtml\">上一页</a>");
+					else
+						document.write("<span class='back'>首页</span><span class='back'>上一页</span>");
+					//循环
+					var num = 5;
+					for(var i=0+(currentPage-1-(currentPage-1)%num) ; i<=(num+(currentPage-1-(currentPage-1)%num))&&(i<countPage) ; i++){
+						if(currentPage==i)
+							document.write("<span class='on'>"+(i+1)+"</span>");
+						else if(i==0){
+							document.write("<a href=\"index.shtml\" class='num'>"+1+"</a>");
+						}else 
+							document.write("<a href=\"index"+"_" + i + "."+"shtml\" class='num'>"+(i+1)+"</a>");
+					}
+					
+					//设置下一页代码 
+					if(countPage>1&&currentPage!=(countPage-1))
+						document.write("<a href=\"index"+"_" + nextPage + "."+"shtml\" class='back'>下一页</a><a class='back' href=\"index_" + (countPage-1) + ".shtml\">尾页</a>");
+					else
+						document.write("<span class='back'>下一页</span><span class='back'>尾页</span>");
+						
+					</script>
+</div>
+			</div>
+		</div>
+		<!--footer-->
+		<div class="footer">
+			<p>版权所有：北京市海淀区人民政府<span class="ml20">京ICP备05083640号</span></p>
+			<div>
+				<p>
+					<a href="javascript:;"><img src="/resources/images/icon_ga.png" /></a>
+					<a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802021701" target="_blank">京公网安备 11010802021701号</a>
+                                        <span class="ml20">网站标识码：1101080016</span>
+                                        <span class="ml20">扫黑除恶举报电话：82519119</span>
+                                        <span class="ml20">扫黑除恶邮箱：hdshce@126.com</span>
+				</p>
+			</div>
+                        <p>主办：北京市海淀区政府办公室
+                           <span class="ml20">主管：中共海淀区委宣传部</span>
+                           <span class="ml20">承办单位：北京市海淀区新闻中心</span>
+                        </p>
+                        <p>地址：北京市海淀区西四环北路11号
+                           <span class="ml20">咨询热线：96181
+                           <!--<a href="http://101.200.104.103/bqdt/zddt/" target="_blank" class="ml20">站点地图</a> 丨 <a href="http://101.200.104.103/bqdt/bqsm/201810/t20181020_3911352.shtml" target="_blank">版权说明</a>-->
+                        </p>
+			<div class="linkPhoto">
+				<div class="fleft"><script type="text/javascript">document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E%3Cscript src='http://dcs.conac.cn/js/01/008/0000/60467459/CA010080000604674590001.js' type='text/javascript'%3E%3C/script%3E"));</script></div>
+				<div class="fright"><script id="_jiucuo_" sitecode='1101080016' src='http://pucha.kaipuyun.cn/exposure/jiucuo.js'></script></div>
+			</div>
+		</div>
+   <!-- <script src="http://libs.baidu.com/jquery/2.1.1/jquery.min.js"></script>
+<script>
+(function(){
+        var mobileAgent = new Array("iphone", "ipod", "ipad", "android", "mobile", "blackberry", "webos", "incognito", "webmate", "bada", "nokia", "lg", "ucweb", "skyfire");
+        var browser = navigator.userAgent.toLowerCase();
+        var isMobile = false;
+        for (var i = 0; i < mobileAgent.length; i++) {
+            if (browser.indexOf(mobileAgent[i]) != -1) {
+                isMobile = true;
+                //alert(mobileAgent[i]);
+                location.href = "app_hd.shtml";
+                break;
+            }
+        }
+})();
+</script> -->
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?57b98bf66d63fe2c1c41dc249e647c2d";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+		<script type="text/javascript" src="/resources/js/jquery-1.11.3.min.js"></script>
+		<script type="text/javascript">
+			$(function(){
+				var nLength = $('.slideList li').length;
+				for(var i=0; i<$('.slideList li').length; i++){
+					if(i%6==4){
+						$('.slideList li').eq(i).after('<li class="line"></li>');
+						i+=2
+					}
+				}
+				if((nLength-1)%5!=4){
+					$('.slideList li:last').after('<li class="line"></li>');
+				}
+			});
+		</script>
+	</body>
+</html>

@@ -1,0 +1,15 @@
+import re
+content='Hello 123 4567 world_This is a Regex Demo'
+res=re.match('H.*3 (\d\d\d\d).*',content)
+res1=re.match('Hello 123 4567 world_(This) is a Regex Demo',content)
+res2=re.match('H.*7 (.*)is',content)
+res3=re.match('H.*7 (.*)This',content)
+res4=re.match('.*o (\d\d\d) .*7 (\w\w\w\w\w).*',content)
+print(res)
+print(res.group())
+print(res1.group())
+print(res1.group(1))
+print(res2.group(1))
+print(res3.group(1))
+print(res.group(1))
+print(res4.group(1,2))
